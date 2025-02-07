@@ -6,5 +6,3 @@ pipeline {
                 git branch: ‘main’, url : 'https://github.com/ghoutibkl/OSDetector.git'
             }
         }
-    }
-}
